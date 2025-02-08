@@ -63,13 +63,13 @@ I have a strong interest in exploring new technologies and continuously improvin
 
   <br>
 <div align="center">
-    <img src=https://streak-stats.demolab.com?user=jm-works&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3"  />
+    <img src=https://github-readme-stats.vercel.app/api?username=jm-works&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1"  />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jm-works&radius=16&theme=redical&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20%7C%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 
 ###
-
-<img src="https://raw.githubusercontent.com/jm-works/jm-works/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jm-works/jm-works/output/snake.svg" alt="Snake animation" />
 
 ###
