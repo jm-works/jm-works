@@ -3,11 +3,6 @@
   </a>
 </div>
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jm-works/count.svg?"  />
-</div>
-
 #
 <h3 align="left">// Sobre Mim</h3>
 
