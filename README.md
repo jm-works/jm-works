@@ -4,6 +4,27 @@
 </div>
 
 #
+<h3 align="left">// Sobre Mim</h3>
+
+Olá! Me chamo José e sou estudante de Ciência da Computação na Universidade Tiradentes - UNIT (2º período).
+Meu GitHub é uma demonstração dos projetos que desenvolvo e posso desenvolver, algumas soluções simples e outras mais complexas (Muitas vezes, mais do que deveriam), sempre buscando soluções bem estruturadas e eficientes.
+
+Tenho interesse em explorar novas tecnologias e aprimorar constantemente minhas habilidades, aplicando lógica e criatividade no desenvolvimento de software.
+
+📩 Para contato, sinta-se à vontade para me chamar!
+
+##
+
+<h3 align="left">// About me</h3>
+
+Hello! My name is José, and I am a Computer Science student at Universidade Tiradentes - UNIT (2nd semester).
+My GitHub is a showcase of the projects I develop and can develop—some simple solutions and others more complex (often more than they should be), always aiming for well-structured and efficient solutions.
+
+I have a strong interest in exploring new technologies and continuously improving my skills, applying logic and creativity to software development.
+
+📩 Feel free to reach out!
+
+#
 
 <p align="center">
   "O céu sobre o porto tinha a cor de uma televisão sintonizada num canal fora do ar."
@@ -40,13 +61,15 @@
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>// Status</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jm-works&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jm-works&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=jm-works&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jm-works&radius=16&theme=redical&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20%7C%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 
-#
+###
+
+<img src="https://raw.githubusercontent.com/jm-works/jm-works/output/snake.svg" alt="Snake animation" />
+
+###
