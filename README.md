@@ -62,12 +62,13 @@ I have a strong interest in exploring new technologies and continuously improvin
 #
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./src/white.png">
-    <source media="(prefers-color-scheme: light)" srcset="./src/black.png">
-    <img src="jm-works/src/black.png" alt="" width="200">
-  </picture>
+  <img src="./src/black.png" alt="Imagem escura" width="170">
+  <img src="./src/White.png" alt="Imagem clara" width="170">
+  <img src="./src/black.png" alt="Imagem escura" width="170">
+  <img src="./src/White.png" alt="Imagem clara" width="170">
+  <img src="./src/black.png" alt="Imagem escura" width="170">
 </p>
+
 
 ###
 <div align="center">
