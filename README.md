@@ -62,11 +62,11 @@ I have a strong interest in exploring new technologies and continuously improvin
 #
 
 <p align="center">
-  <img src="./src/black.png" alt="Imagem escura" width="170">
-  <img src="./src/White.png" alt="Imagem clara" width="170">
-  <img src="./src/black.png" alt="Imagem escura" width="170">
-  <img src="./src/White.png" alt="Imagem clara" width="170">
-  <img src="./src/black.png" alt="Imagem escura" width="170">
+  <img src="./src/black.png" alt="Imagem escura" width="150">
+  <img src="./src/White.png" alt="Imagem clara" width=150">
+  <img src="./src/black.png" alt="Imagem escura" width="150">
+  <img src="./src/White.png" alt="Imagem clara" width="150">
+  <img src="./src/black.png" alt="Imagem escura" width="150">
 </p>
 
 
