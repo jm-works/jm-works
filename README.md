@@ -3,8 +3,9 @@
   </a>
 </div>
 
+<img align="center" alt="" src="./src/about-me.png">
+
 #
-<h3 align="left">// Sobre Mim</h3>
 
 Olá! Me chamo José e sou estudante de Ciência da Computação na Universidade Tiradentes - UNIT (2º período).
 Meu GitHub é uma demonstração dos projetos que desenvolvo e posso desenvolver, algumas soluções simples e outras mais complexas (Muitas vezes, mais do que deveriam), sempre buscando soluções bem estruturadas e eficientes.
@@ -15,7 +16,6 @@ Tenho interesse em explorar novas tecnologias e aprimorar constantemente minhas 
 
 ##
 
-<h3 align="left">// About me</h3>
 
 Hello! My name is José, and I am a Computer Science student at Universidade Tiradentes - UNIT (2nd semester).
 My GitHub is a showcase of the projects I develop and can develop—some simple solutions and others more complex (often more than they should be), always aiming for well-structured and efficient solutions.
@@ -24,7 +24,9 @@ I have a strong interest in exploring new technologies and continuously improvin
 
 📩 Feel free to reach out!
 
-#
+
+
+<img align="center" alt="" src="./src/top.png">
 
 <p align="center">
   "O céu sobre o porto tinha a cor de uma televisão sintonizada num canal fora do ar."
@@ -41,8 +43,12 @@ I have a strong interest in exploring new technologies and continuously improvin
   – <i>Neuromancer, 1984</i>
   Original edition by Ace Books.
 </p>
-  
+
+<img align="center" alt="" src="./src/low.png">
+
 #
+
+<img align="center" alt="" src="./src/top-info.png">
 
 <img align="right" alt="" height="190px" src="./src/rickrolling.gif">
 
@@ -59,19 +65,8 @@ I have a strong interest in exploring new technologies and continuously improvin
   <img width="8" />
 </div>
 
+<img align="center" alt="" src="./src/low.png">
+
 #
 
-<p align="center">
-  <img src="./src/black.png" alt="Imagem escura" width="150">
-  <img src="./src/White.png" alt="Imagem clara" width=150">
-  <img src="./src/black.png" alt="Imagem escura" width="150">
-  <img src="./src/White.png" alt="Imagem clara" width="150">
-  <img src="./src/black.png" alt="Imagem escura" width="150">
-</p>
-
-
-###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jm-works/jm-works/output/snake.svg" alt="Snake animation" />
-
-###
+<img align="center" alt="" src="./src/ultra-low.png">
