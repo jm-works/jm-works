@@ -58,10 +58,11 @@ I have a strong interest in exploring new technologies and continuously improvin
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mr_jmatheus/)
 
 
-<h3 align="left">// In Working | Em Desenvolvimento
+<h3 align="left">// Always Learning | Constantemente Aprendendo</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt="python3 logo"/>
   <img width="8" />
 </div>
 
