@@ -50,7 +50,7 @@ I have a strong interest in exploring new technologies and continuously improvin
 
 <img align="center" alt="" src="./src/top-info.png">
 
-<img align="right" alt="" height="190px" src="./src/rickrolling.gif"> 
+<img align="right" alt="" style="height:190px;" src="./src/rickrolling.gif"> 
 
 <h3 align="left">// Connect with me! | Conecte-se comigo!</h3>
 
@@ -61,9 +61,9 @@ I have a strong interest in exploring new technologies and continuously improvin
 <h3 align="left">// Always Learning | Constantemente Aprendendo</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python3 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt="Java logo"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="25" alt="JavaScript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:25px;" alt="python3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height:25px;" alt="Java logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" style="height:25px;" alt="JavaScript logo"/>
 </div>
 
 <img align="center" alt="" src="./src/low.png">
