@@ -50,7 +50,7 @@ I have a strong interest in exploring new technologies and continuously improvin
 
 <img align="center" alt="" src="./src/top-info.png">
 
-<img align="right" alt="" height="190px" src="./src/rickrolling.gif">
+<img align="right" alt="" height="190px" src="./src/rickrolling.gif"> 
 
 <h3 align="left">// Connect with me! | Conecte-se comigo!</h3>
 
