@@ -7,7 +7,7 @@
 
 #
 
-Olá! Me chamo José e sou estudante de Ciência da Computação na Universidade Tiradentes - UNIT (3º período).
+Olá! Me chamo José e sou estudante de Ciência da Computação na Universidade Tiradentes - UNIT (4º período).
 Meu GitHub é uma demonstração dos projetos que desenvolvo e posso desenvolver, algumas soluções simples e outras mais complexas (Muitas vezes, mais do que deveriam), sempre buscando soluções bem estruturadas e eficientes.
 
 Tenho interesse em explorar novas tecnologias e aprimorar constantemente minhas habilidades, aplicando lógica e criatividade no desenvolvimento de software.
