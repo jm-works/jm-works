@@ -17,7 +17,7 @@ Tenho interesse em explorar novas tecnologias e aprimorar constantemente minhas 
 ##
 
 
-Hello! My name is José, and I am a Computer Science student at Universidade Tiradentes - UNIT (3nd semester).
+Hello! My name is José, and I am a Computer Science student at Universidade Tiradentes - UNIT (4nd semester).
 My GitHub is a showcase of the projects I develop and can develop—some simple solutions and others more complex (often more than they should be), always aiming for well-structured and efficient solutions.
 
 I have a strong interest in exploring new technologies and continuously improving my skills, applying logic and creativity to software development.
