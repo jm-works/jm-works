@@ -7,14 +7,14 @@
 
 #
 
-Estudante de CS · Desenvolvedor de Software · Construindo coisas que provavelmente não deveriam existir.
+Me chamo **José Matheus**, **estudante de CS** e **desenvolvedor de software** que constrói coisas que ~provavelmente~ não deveriam existir.
 
 ##
 
 
-CS student · Software Developer · Building things that probably shouldn't exist.
+My name is **José Matheus**, **CS student** and **software developer** who builds things that ~probably~ shouldn't exist.
 
-
+#
 
 <img align="center" alt="" src="./src/top.png">
 
