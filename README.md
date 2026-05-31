@@ -44,7 +44,8 @@ My name is **José Matheus**, **CS student** and **software developer** who buil
 
 <h3 align="left">// Connect with me! | Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jmatheus_vida@outlook.com)
+[![Mail](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:jmatheus_vida@outlook.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jm-works/)
 
 
 <h3 align="left">// Always Learning | Constantemente Aprendendo</h3>
