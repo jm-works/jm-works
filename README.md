@@ -7,7 +7,7 @@
 
 #
 
-Me chamo **José Matheus**, **estudante de CS** e **desenvolvedor de software** que constrói coisas que ~provavelmente~ não deveriam existir.
+Me chamo **José Matheus**, **estudante de CC** e **desenvolvedor de software** que constrói coisas que ~provavelmente~ não deveriam existir.
 
 ##
 
