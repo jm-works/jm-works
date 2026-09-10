@@ -18,7 +18,7 @@ My name is **José Matheus**, **CS student** and **software developer** who buil
 
 <img align="center" alt="" src="./src/top.png">
 
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
+<div align="center">
   <div style="max-width:65%;">
 
     "O céu sobre o porto tinha a cor de uma televisão sintonizada num canal fora do ar."
@@ -33,7 +33,7 @@ My name is **José Matheus**, **CS student** and **software developer** who buil
     Original edition by Ace Books.
 
   </div>
-  <img alt="" style="height:180px; flex-shrink:0;" src="./src/MeProfile.png">
+  <img alt="" style="height:180px;" src="./src/MeProfile.png">
 </div>
 
 <img align="center" alt="" src="./src/low.png">
