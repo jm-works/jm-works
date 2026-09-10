@@ -18,19 +18,23 @@ My name is **José Matheus**, **CS student** and **software developer** who buil
 
 <img align="center" alt="" src="./src/top.png">
 
-<p align="center">
-  <img align="right" alt="" style="height:180px; margin-left:15px;" src="./src/MeProfile.png">
-  
-  "O céu sobre o porto tinha a cor de uma televisão sintonizada num canal fora do ar."
-  
-  – <i>Neuromancer, 1991</i> 
-  Edição brasileira pela Editora Aleph.
+<div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px;">
+  <div style="max-width:65%;">
 
-  "The sky above the port was the color of television, tuned to a dead channel."
-  
-  – <i>Neuromancer, 1984</i>
-  Original edition by Ace Books.
-</p>
+    "O céu sobre o porto tinha a cor de uma televisão sintonizada num canal fora do ar."
+    
+    – Neuromancer, 1991
+    Edição brasileira pela Editora Aleph.
+
+
+    "The sky above the port was the color of television, tuned to a dead channel."
+    
+    – Neuromancer, 1984
+    Original edition by Ace Books.
+
+  </div>
+  <img alt="" style="height:180px; flex-shrink:0;" src="./src/MeProfile.png">
+</div>
 
 <img align="center" alt="" src="./src/low.png">
 
