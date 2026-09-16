@@ -33,7 +33,7 @@ My name is **José Matheus**, **CS student** and **software developer** who buil
     Original edition by Ace Books.
 
   </div>
-  <img alt="" style="height:180px;" src="./src/MeProfile.png">
+  <img alt="" style="height:180px;" src="./src/MeProfile.gif">
 </div>
 
 <img align="center" alt="" src="./src/low.png">
