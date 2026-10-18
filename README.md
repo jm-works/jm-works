@@ -44,12 +44,6 @@ My name is **José Matheus**, **CS student** and **software developer** who buil
 
 <img align="right" alt="" style="height:190px;" src="./src/rickrolling.gif"> 
 
-<h3 align="left">// Connect with me! | Conecte-se comigo!</h3>
-
-[![Mail](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:jmatheus_vida@outlook.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jm-works/)
-
-
 <h3 align="left">// Always Learning | Constantemente Aprendendo</h3>
 
 <div align="left">
